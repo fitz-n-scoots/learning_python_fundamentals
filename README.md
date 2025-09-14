@@ -1,2 +1,5 @@
 # learning_python_fundamentals
-everything that I learned while I was learned while I was learning html.
+
+when I was learning html fundimentals I made a new folder every day and I learned somthing new and now I'm doing the same thing with python
+
+every thing I learned I learned before this corse of python [before](docs/BEFORE.md) file
