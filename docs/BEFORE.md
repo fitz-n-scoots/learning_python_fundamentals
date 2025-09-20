@@ -16,9 +16,6 @@ rembers what you said and if you say it it sais what its euqual to whats in the 
 ## replace
 replaces the first thing you say with the second
 
-## import
-makes things posible
-
 ## split
 takes away what you split from the string
 
