@@ -24,12 +24,12 @@ interactive mode is a great plase to start learning and isnt for actual files.
 print("Hello!")
 ```
 
-1. What would you see if you ran this command in a file?
+##1. What would you see if you ran this command in a file?
 hello!
 4
-2. What about in interactive mode?
+##2. What about in interactive mode?
 error
-3. Why is it different?
+##3. Why is it different?
 it doesn`t work in inter active mode
 
 
