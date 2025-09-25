@@ -22,49 +22,48 @@ interactive mode is a great plase to start learning and isnt for actual files.
 
 ```python
 print("Hello!")
+2+2
 ```
 
-##1. What would you see if you ran this command in a file?
+## 1. What would you see if you ran this command in a file?
 hello!
 4
-##2. What about in interactive mode?
+## 2. What about in interactive mode?
 error
-##3. Why is it different?
+## 3. Why is it different?
 it doesn`t work in inter active mode
 
 
 ---
 
-#day two
+# day two
 
-##what do >>> and ... mean
-`>>>` prompts with the secondary prompt, by default three dots `...` The interpreter prints a 
-welcome message stating its version number and a copyright 
-notice before printing the first prompt:
-
-##when would you see ...
+## what do `>>>` and `...` mean
+`>>>` new line with out indenting  
+`...` new line with indenting.  
+  
+## when would you see ...
 a message
+  
+# in repl use the comand `os.listdir()`
+  
+## what happens  
+NameError
 
-#in repl use the comand os.listdir
-
-
-##what happens  
-error
-
-##how do you fix it  
-use normal python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## how do you fix it  
+import os
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 *your file
