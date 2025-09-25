@@ -48,10 +48,11 @@ a message
 #in repl use the comand os.listdir
 
 
-##what heppens
+##what happens  
 error
 
-how do you fix it use normal python
+##how do you fix it  
+use normal python
 
 
 
