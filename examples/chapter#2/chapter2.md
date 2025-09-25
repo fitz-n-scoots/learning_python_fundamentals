@@ -35,10 +35,23 @@ it doesn`t work in inter active mode
 
 ---
 
+#day two
+
+##what do >>> and ... mean
+`>>>` prompts with the secondary prompt, by default three dots `...` The interpreter prints a 
+welcome message stating its version number and a copyright 
+notice before printing the first prompt:
+
+##when would you see ...
+a message
+
+#in repl use the comand os.listdir
 
 
+##what heppens
+error
 
-
+how do you fix it use normal python
 
 
 
