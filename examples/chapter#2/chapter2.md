@@ -27,11 +27,11 @@ print("Hello!")
 
 ## 1. What would you see if you ran this command in a file?
 hello!
-4
 ## 2. What about in interactive mode?
-error
+hello!
+4
 ## 3. Why is it different?
-it doesn`t work in inter active mode
+it doesn`t work in interactive mode
 
 
 ---
@@ -42,7 +42,7 @@ it doesn`t work in inter active mode
 `>>>` new line with out indenting  
 `...` new line with indenting.  
   
-## when would you see ...
+## when would you see `...`
 a message
   
 # in repl use the comand `os.listdir()`
