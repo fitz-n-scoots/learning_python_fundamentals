@@ -65,9 +65,11 @@ sort
 ### `ahhh`
 ### `ahhhh`
 ### `ahhhhh`
-while a < 10:
-    print(a)
-    'a'+1 * 'h'
+count = 0
+while count < 6:
+   print('a' + 'h'*count)
+   count=count+1
+    
 
 
 
