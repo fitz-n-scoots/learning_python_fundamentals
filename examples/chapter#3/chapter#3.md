@@ -1,11 +1,11 @@
 # Chapter 3  
   
 ## what types of numbers do we use in python  
-binary & power of 2  
+binary & octal
   
   
 ### how are they differnt  
-A power of two is a number that can be expressed as 2  
+octal is base eight
 Binary, on the other hand, is a numeral  
 system that uses only two digits, 0 and 1,  
   
@@ -26,7 +26,7 @@ a sring is text with quotes and a comment has a hash tag
 "victor \n is \n a \n kid "  
   
 ## whats a list in python  
-a group of separated charecters  
+a group of separated charecters and numbers 
   
 ## asign a list to a variable called `pet_names`
 pet_names = ["cat", "dog", "snake"]  
@@ -42,6 +42,32 @@ id(pet_names) == id(extra_pet_names)
 extra_pet_names.append("bunny")  
 mango = pet_names  
 id(pet_names) == id(mango)  
-mango.append("mango")
+mango.append("mango")  
+
+# day two
+
+## what are some special numbers we can find in packages we import  
+x and y  
+  
+## how do we select the second last charecter in a string  
+t="hello"  
+t[-2]  
+  
+## how do we take an out of order list and make it alphebetical  
+sort  
+  
+## how do we make a list backward
+.reverse
+
+## how do we write a similar program that printed  
+### `ah`
+### `ahh`
+### `ahhh`
+### `ahhhh`
+### `ahhhhh`
+while a < 10:
+    print(a)
+    'a'+1 * 'h'
+
 
 
