@@ -10,7 +10,7 @@ Binary, on the other hand, is a numeral
 system that uses only two digits, 0 and 1,  
   
 ## if we wanted to calculate the whole number part of `15 divided by 2`  
-print(15/2)
+print(15//2)
 
 ### what about the remainder  
 print(15%2)  
@@ -21,7 +21,7 @@ a sring is text with quotes and a comment has a hash tag
 ## what are two ways two ways to creat a string with quotes like this `victor is a "kid" so they say`
 "victor is a "\kid"\ so they say"  
 'victor is a "kid" so they say'  
-
+abo
 ## how do we write a string on one line and print out on several lines  
 "victor \n is \n a \n kid "  
   
