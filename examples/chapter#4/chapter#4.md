@@ -30,3 +30,20 @@ pets('hello', 'scooter')
 
 
 # day 3
+
+## what hapends in the header of a python function definition
+it says the name of the function and the def  
+
+### what hapends in the body  
+it says the stuff that it is going to do somthing
+
+## does a function always return something to the caller? what about when we dontinclde a "return" statment
+no kindof
+
+## 
+
+pets = ['scooter','fitz']
+
+def pets(greeting, name , punctuation):
+pets('hi',punctuation='.',name = 'fitz')  
+pets('hello',punctuation='?',name = 'scooter') 
