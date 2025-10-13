@@ -15,8 +15,9 @@ if len(name) >7:
 # what is else
 
 # its like if but the opposite
-
-if (len)victor < (len)jack:
+victor = ('victor')
+jack = ("jack")
+if len(victor) < len(jack):
   print("victor is shorter than jack")
 else:
   print("jack is shorter than victor")
