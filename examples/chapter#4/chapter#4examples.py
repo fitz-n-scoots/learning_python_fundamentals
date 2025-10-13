@@ -2,8 +2,8 @@
 
 # a block of code that can change somthing
 def pets():
-  pets('are you a dog re you a cat?')  
-
+  print('are you a dog are you a cat?')  
+pets()
 
 # what is an if
 
@@ -29,4 +29,17 @@ if 1 > 1:
   print("1 is greater than 1")
 elif 1 == 1:
   print("1 and 1 are equal")
+  
+# what is a while loop
+# every time you go around the loop it changes what you give it 
+count = 0
+while count < 3:
+  print('yes!' + '!'*count)
+  count=count+3-1+4-5
+   
+# what is a for loop
+# a for loop is a loop that goes aruond as man times as what you give it has
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
   
