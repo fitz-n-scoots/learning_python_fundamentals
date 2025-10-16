@@ -3,9 +3,9 @@
 ## How would we read in a string variable called 'name' and print out that the person has a short name if the name is less than 5 characters, that they have a normal name if it between 5 and 8 characters, and that they have a long name otherwise?
 
 ```python
-if len(victor) = <5:
+if len('victor') <5:
     print('you have a normal name')
-elif (len(victor)) == >5:
+elif len('victor') <9:
     print('you have a long name')
 ```
 
@@ -25,9 +25,9 @@ positional args have to be in sertent places key word args have sertant names
 ## How could we write a function that accepted one greeting string and a list of pet names which would print that greeting once for each pet?
 
 ```python
-pets = ['mason,'scooter','fitz']
+pets = ['mason','scooter','fitz',]
 def pets(greeting, name):
-pets('hi', pets)  
+  pets('hi', pets)  
 ```
 
 
