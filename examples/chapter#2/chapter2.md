@@ -31,7 +31,7 @@ hello!
 hello!
 4
 ## 3. Why is it different?
-it doesn`t work in interactive mode
+it says 4 in interactive mode
 
 
 ---
