@@ -1,7 +1,7 @@
  
  
  
-def divide (number):
+def check_divisbility (number):
   if number != int(number):
     print(  'ERROR NOT INT!!!!!!!!!!')
     return False
@@ -21,4 +21,4 @@ def divide (number):
       
   
 for x in range(102,122):  
-  divide(x)
+  check_divisbility(x)
