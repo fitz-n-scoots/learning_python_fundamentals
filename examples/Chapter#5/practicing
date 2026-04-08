@@ -1,0 +1,28 @@
+
+you use tuples for non changing lists  
+
+you use sets for unique elements
+
+how to convert a list to a tuple
+Use the tuple() function
+my_list = [1, 2, 2, 3, 4]
+my_tuple = tuple(my_list)
+if you turned 1,2,2,3,4 into a tuple it would turn into 1,2,2,3,4
+
+how to convert a list to set
+use the set() function
+my_list = [1, 2, 2, 3, 4]
+my_set = set(my_list)
+if you turned 1,2,2,3,4 into a set it would also turn into 1,2,3,4
+
+you would use a set 
+
+you would use a list
+  
+you would use a set
+
+you would use a tuple
+
+you would use a set
+
+you would use a set
