@@ -43,7 +43,15 @@ print('there are ' + str(len(list_of_students)) + ' students')
 
 my_dict = {}
 
+# list of student looks like this
+# [('bill',6,'m'),('joe',6,'m'),('joe',7,'m')]
 for student_data in list_of_students:
+  # student data looks like this on the first loop:
+  # ('bill',6,'m')
+  # student data looks like this on the second loop:
+  # ('joe',6,'m')
+  # student data looks like this on the third loop:
+  # ('joe',7,'m')
   if student_data[0] in my_dict:
     print('ERROR! two of the same name!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
   my_dict [student_data[0]] = student_data 
